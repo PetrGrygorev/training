@@ -20,7 +20,7 @@ License: [[CC BY 3.0](https://creativecommons.org/licenses/by/3.0)]
 5. [Команда git commit](./git_commit.md)
 6. [Команда git status](./git_status.md)
 7. [Команда git log](./git_log.md)
-8. [Команда git innore](./git_ignore.md)
+8. [Файл git ignore](./git_ignore.md)
 9. [Команда git push](./git_push.md)
 10. [Команда git clone](./git_clone.md)
 11. [Команда git fetch](./git_fetch.md)
